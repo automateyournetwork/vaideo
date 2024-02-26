@@ -1,0 +1,150 @@
+[
+    {
+        "display": "Hyperrealistic Style",
+        "prompt": "Create a hyper-realistic image from the frames, focusing on fine details and lifelike textures.<Add any specifics about your images to customize and complete this prompt>"
+    },
+    {
+        "display": "Van Gogh's Impressionism",
+        "prompt": "Transform the frames into a painting reminiscent of Van Gogh's style, with bold brush strokes and vibrant colors.<Add any specifics about your images to customize and complete this prompt>"
+    },
+    {
+        "display": "Old Time Cartoon",
+        "prompt": "Reimagine the frames as an old-time cartoon, with simple lines and a classic animation feel.<Add any specifics about your images to customize and complete this prompt>"
+    },
+    {
+        "display": "Futuristic Style",
+        "prompt": "Give the frames a futuristic makeover, incorporating elements of sci-fi and advanced technology.<Add any specifics about your images to customize and complete this prompt>"
+    },
+    {
+        "display": "Michelangelo's Renaissance Art",
+        "prompt": "Adapt the frames into a Renaissance-style artwork, inspired by the masterful techniques of Michelangelo.<Add any specifics about your images to customize and complete this prompt>"
+    },
+    {
+        "display": "Surrealist Dreamscape",
+        "prompt": "Morph the frames into a surrealistic dreamscape, embodying the imaginative and dream-like qualities akin to Salvador Dali's work, with unexpected juxtapositions and abstract forms.<Add any specifics about your images to customize and complete this prompt>"
+    },
+    {
+        "display": "Art Deco Elegance",
+        "prompt": "Transform the frames into an Art Deco style, characterized by rich colors, bold geometric shapes, and lavish ornamentation, reflecting the glamour and sophistication of the early 20th century.<Add any specifics about your images to customize and complete this prompt>"
+    },
+    {
+        "display": "Japanese Ukiyo-e Style",
+        "prompt": "Reinterpret the frames in the Japanese Ukiyo-e style, featuring woodblock print aesthetics, with graceful lines and a distinct use of color, capturing the essence of 17th-century Japanese art.<Add any specifics about your images to customize and complete this prompt>"
+    },
+    {
+        "display": "Graffiti Urban Art",
+        "prompt": "Recreate the frames in a graffiti urban art style, infusing the frames with vibrant street art elements, bold colors, and dynamic graffiti lettering for a contemporary urban look.<Add any specifics about your images to customize and complete this prompt>"
+    },
+    {
+        "display": "Pop Art Vibrancy",
+        "prompt": "Convert the frames into a pop art style, characterized by bright, vivid colors and bold, simple, and everyday imagery, reminiscent of the work of Andy Warhol or Roy Lichtenstein.<Add any specifics about your images to customize and complete this prompt>"
+    },
+    {
+        "display": "Cubist Interpretation",
+        "prompt": "Reconstruct the frames in a Cubist style, breaking the scenes into abstract, geometric shapes, and reassembling them in an abstracted form, similar to the works of Pablo Picasso or Georges Braque.<Add any specifics about your images to customize and complete this prompt>"
+    },
+    {
+        "display": "Romantic Era Inspiration",
+        "prompt": "Reshape the frames to reflect the Romantic era, focusing on dramatic, emotional, and sublime themes, with rich textures and expressive brushwork, reminiscent of artists like Caspar David Friedrich or J.M.W. Turner.<Add any specifics about your images to customize and complete this prompt>"
+    },
+    {
+        "display": "Art Nouveau Fantasy",
+        "prompt": "Transform the frames into an Art Nouveau style, characterized by elegant decorative designs, flowing curves, and natural forms, invoking the whimsical fantasy of artists like Alphonse Mucha.<Add any specifics about your images to customize and complete this prompt>"
+    },
+    {
+        "display": "Abstract Expressionism",
+        "prompt": "Alter the frames with the techniques of Abstract Expressionism, using bold splashes of color and dynamic brushstrokes to convey emotion and movement, inspired by artists like Jackson Pollock or Mark Rothko.<Add any specifics about your images to customize and complete this prompt>"
+    },
+    {
+        "display": "Digital Pixel Art",
+        "prompt": "Reimagine the frames as pixel art, recreating the scenes with a retro, digital aesthetic, using small squares or 'pixels' to create a mosaic of the original imagery.<Add any specifics about your images to customize and complete this prompt>"
+    },
+    {
+        "display": "Baroque Grandeur",
+        "prompt": "Transform the frames into a Baroque style, characterized by its dramatic use of light, rich color palettes, and grandiose compositions, echoing the works of Caravaggio and Peter Paul Rubens.<Add any specifics about your images to customize and complete this prompt>"
+    },
+    {
+        "display": "Minimalist Zen",
+        "prompt": "Simplify the frames into a minimalist Zen style, focusing on simplicity, clean lines, and monochromatic color schemes, embodying the essence of minimalism and Zen aesthetics.<Add any specifics about your images to customize and complete this prompt>"
+    },
+    {
+        "display": "Gothic Mystery",
+        "prompt": "Recreate the frames in a Gothic style, featuring elements of mystery, dark romanticism, and medieval architecture, reminiscent of Gothic cathedrals and the mystique of the middle ages.<Add any specifics about your images to customize and complete this prompt>"
+    },
+    {
+        "display": "Artistic Sci-Fi Futurism",
+        "prompt": "Give the frames a Sci-Fi Futuristic artistic touch, incorporating elements of science fiction and speculative future scenarios, with an emphasis on innovative designs and imaginative concepts.<Add any specifics about your images to customize and complete this prompt>"
+    },
+    {
+        "display": "Retro 80s Neon",
+        "prompt": "Infuse the frames with a Retro 80s neon aesthetic, featuring vibrant neon colors, geometric shapes, and a nostalgic feel of the 1980s pop culture.<Add any specifics about your images to customize and complete this prompt>"
+    },
+    {
+        "display": "Japanese Anime",
+        "prompt": "Recreate the frames in the Japanese Anime style, with vibrant colors, exaggerated facial expressions, and dynamic motion typical of this popular animation genre.<Add any specifics about your images to customize and complete this prompt>"
+    },
+    {
+        "display": "Norman Rockwell's Realistic Illustration",
+        "prompt": "Transform the frames to mirror Norman Rockwell's style of warm, detailed illustrations, capturing everyday life scenes with a touch of nostalgia and Americana.<Add any specifics about your images to customize and complete this prompt>"
+    },
+    {
+        "display": "Victorian Classicism",
+        "prompt": "Adapt the frames to reflect Victorian Classicism, with detailed, ornate imagery and a romantic, elegant aesthetic typical of the Victorian era.<Add any specifics about your images to customize and complete this prompt>"
+    },
+    {
+        "display": "Art Brut/Raw Art",
+        "prompt": "Reimagine the frames in an Art Brut (Raw Art) style, characterized by a spontaneous, unrefined aesthetic, often outside the traditional norms of fine art.<Add any specifics about your images to customize and complete this prompt>"
+    },
+    {
+        "display": "Renaissance Realism",
+        "prompt": "Transform the frames into Renaissance Realism, capturing the detailed, lifelike quality and humanist themes of this pivotal art period.<Add any specifics about your images to customize and complete this prompt>"
+    },
+    {
+        "display": "M.C. Escher's Optical Illusions",
+        "prompt": "Recreate the frames in the style of M.C. Escher, focusing on optical illusions, intricate patterns, and impossible constructions.<Add any specifics about your images to customize and complete this prompt>"
+    },
+    {
+        "display": "Bauhaus Minimalism",
+        "prompt": "Adapt the frames to the Bauhaus style, characterized by minimalist design, geometric shapes, and a focus on functionality.<Add any specifics about your images to customize and complete this prompt>"
+    },
+    {
+        "display": "Expressionist Emotion",
+        "prompt": "Transform the frames into an Expressionist style, conveying emotional experience over physical reality, with intense color and dynamic brushwork.<Add any specifics about your images to customize and complete this prompt>"
+    },
+    {
+        "display": "Klimt's Symbolic Ornamentation",
+        "prompt": "Recreate the frames in the style of Gustav Klimt, featuring his symbolic, ornate patterns and a rich, decorative aesthetic.<Add any specifics about your images to customize and complete this prompt>"
+    },
+    {
+        "display": "Pre-Raphaelite Brotherhood",
+        "prompt": "Adapt the frames to reflect the Pre-Raphaelite Brotherhood style, with vibrant colors, attention to detail, and themes of romanticism and medievalism.<Add any specifics about your images to customize and complete this prompt>"
+    },
+    {
+        "display": "Steampunk Fantasy",
+        "prompt": "Reimagine the frames in a Steampunk style, blending Victorian aesthetics with futuristic, industrial steam-powered machinery.<Add any specifics about your images to customize and complete this prompt>"
+    },
+    {
+        "display": "Contemporary Street Art",
+        "prompt": "Transform the frames into a Contemporary Street Art style, reflecting modern urban culture with bold graphics and a rebellious edge.<Add any specifics about your images to customize and complete this prompt>"
+    },
+    {
+        "display": "Dadaist Collage",
+        "prompt": "Recreate the frames in a Dadaist Collage style, characterized by surreal, abstract compositions, and a sense of anti-art protest.<Add any specifics about your images to customize and complete this prompt>"
+    },
+    {
+        "display": "Egyptian Hieroglyphic Art",
+        "prompt": "Adapt the frames to reflect Egyptian Hieroglyphic Art, incorporating ancient Egyptian symbols and figures in a linear, decorative form.<Add any specifics about your images to customize and complete this prompt>"
+    },
+    {
+        "display": "Constructivism",
+        "prompt": "Transform the frames into a Constructivist style, focusing on geometric abstraction and a modern, industrial aesthetic.<Add any specifics about your images to customize and complete this prompt>"
+    },
+    {
+        "display": "Traditional Chinese Painting",
+        "prompt": "Recreate the frames in the style of Traditional Chinese Painting, featuring brushwork, ink washes, and a balance of simplicity and elegance.<Add any specifics about your images to customize and complete this prompt>"
+    },
+    {
+        "display": "Psychedelic 60s Art",
+        "prompt": "Adapt the frames to a Psychedelic 60s Art style, characterized by vivid colors, swirling patterns, and a dreamlike, hallucinatory aesthetic.<Add any specifics about your images to customize and complete this prompt>"
+    }    
+]
